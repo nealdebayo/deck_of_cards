@@ -1,0 +1,23 @@
+{
+  "name": "deck_cards",
+  "version": "1.0.0",
+  "description": "git clone this repo const  DeckOfCards = require('./deck')",
+  "main": "deck.js",
+  "scripts": {
+    "test": "mocha deck.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booadepoju/deck_of_cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booadepoju/deck_of_cards/issues"
+  },
+  "homepage": "https://github.com/booadepoju/deck_of_cards#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
